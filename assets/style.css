@@ -1,0 +1,32 @@
+body {
+  font-family: 'Hanalei Fill', cursive;
+  background-color: pink;
+}
+
+.content {
+  background-color: black;
+  padding: 0 30px;
+  color: white
+}
+
+h1 {
+  font-size: 5em;
+  line-height: 1.5em;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  color: white;
+}
+.container {
+  display: flex;
+  height: 100vh;
+  background-image: url(butch-love.gif);
+  background-size: 10%;
+  align-items: center;
+  justify-content: center;
+  text-align: center
+}
